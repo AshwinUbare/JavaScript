@@ -1,0 +1,2 @@
+# JavaScript
+Simple javascript code
